@@ -1,7 +1,7 @@
 Browsers
 ===========
 
-Description: The app provides of the information, installation links, and update details you need to actively manage your internet browsers.
+Description: This app provides the information, installation links, and update details you need to actively manage your internet browsers.
 
 
 Notes
