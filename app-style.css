@@ -1,1 +1,9 @@
 /* The following is custom css that will be included with your specific apps.  Feel free to add any custom css you want included in your app. */
+
+td {
+	vertical-align: top;
+}
+
+.centered {
+	text-align: center;
+}
